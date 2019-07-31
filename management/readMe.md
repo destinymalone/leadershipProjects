@@ -1,5 +1,5 @@
 ## Base Camp Improvement Team Projects
-======================================
+
 
 # Management Team
 

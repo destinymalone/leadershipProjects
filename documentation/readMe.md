@@ -1,5 +1,4 @@
 ## Base Camp Improvement Team Projects
-======================================
 
 # Documentation Team
 
