@@ -1,7 +1,7 @@
 ## Base Camp Improvement Team Projects
 
 
-# Management Team
+# Procurement Team
 
 Members
 * Devin
