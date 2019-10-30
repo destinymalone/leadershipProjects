@@ -5,7 +5,6 @@
 
 Members
 * Marcus
-* Dalvin
 * Christian
 * Angie
 * Jaylan
