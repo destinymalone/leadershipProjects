@@ -10,10 +10,13 @@
 <style>
     img {
         height: 200px;
+        padding-top: 10px;
     }
 
     body {
         background-color: #212121;
+        padding: 0px;
+        margin: 0px;
     }
 
     h1,
@@ -23,19 +26,65 @@
         text-align: center;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
+
+    .team {
+        font-size: 80px;
+        padding-bottom: 100px;
+        width: 100%;
+        padding-top: 1px;
+    }
+
+    nav {
+        list-style-type: none;
+        padding: 30px;
+        font-size: 27px;
+        grid-row: span;
+        text-align: center;
+        border: solid white
+    }
+
+    .we {
+        padding-left: 100px;
+        padding-right: 100px;
+        font-size: 20px;
+    }
+
+    .pages {
+        color: white;
+        text-decoration: none;
+        padding: 30px;
+    }
+
+    .who {
+        font-size: 50px;
+    }
+
+    .whoarewe {
+        padding: 40px;
+    }
 </style>
 
 <body>
-    <img src="https://cdn.dribbble.com/users/346937/screenshots/3302632/hand_800x600.gif">
-    <h1>Community Team</h1>
-    <h2>Who are We?</h2>
-    <p>We are a group of potential full-stack web developers. Giving kids the opportunity to get a head start on using
-        the most efficient and relevant technologies for the future.</p>
-    <p> Our goal as a team is to show compassion integrity
-        and also keep good energy flowing with the kids. </p>
-    <p>We want to mold the youth into doing something that will only
-        benefit them for the better and in our defense we believe coding is a very positive and productive way to keep
-        kids moving in the right path.</p>
+    <h1 class="team"><img src="https://cdn.dribbble.com/users/346937/screenshots/3302632/hand_800x600.gif">Community
+        Team<img src="https://cdn.dribbble.com/users/346937/screenshots/3302632/hand_800x600.gif"></h1>
+    <nav>
+        <a href="" class="pages">Curriculum</a>
+        <a href="" class="pages">Teaching Schedule</a>
+        <a href="" class="pages">Student Code</a>
+    </nav>
+    <div class="whoarewe">
+        <h2 class="who">Who are We?</h2>
+        <p class="we">We are a group of potential full-stack web developers. Giving kids the opportunity to get a head
+            start
+            on using
+            the most efficient and relevant technologies for the future.
+            Our goal as a team is to show compassion integrity
+            and also keep good energy flowing with the kids.
+            We want to mold the youth into doing something that will only
+            benefit them for the better and in our defense we believe coding is a very positive and productive way to
+            keep
+            kids moving in the right path.</p>
+    </div>
 </body>
 
 </html>
