@@ -4,11 +4,11 @@
 # Community Team
 
 Members
-* Marcus
-* Dalvin
+* Destiny
+* Dylan
 * Christian
 * Angie
-* Jaylan
+* Tyler-Rex
 
 ### Responsibilities
 This team will be responsible for coordinating the efforts for Base Camp students to lead weekly computer coding courses at Davidson Elementary in Water Valley. The after-school club will meet Mondays from 2:45 to 4:30 starting September 9th. This team will be responsible for designing the curriculum and ensuring it is effectively delivered to the students. Base Camp students will rotate turns so that the entire class teaches the lessons with the number of times each student teaches distributed across the class.
