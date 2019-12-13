@@ -2,14 +2,13 @@
 
 
 ### Teams
-| Procurement | Management | Documentation | Community |
-| ----------- | ---------- | ------------- | --------- |
-| Devin | Dakota | | | | |
-| William | Oscar | William | Dylan |
-| Derek | Patton | Hunter M | Christian |
-| Tyler I  | | | JD | Angie |
+| Procurement | Management | Community |
+| ----------- | ---------- | --------- |
+| Devin | Dakota | | | 
+| William | Oscar | Dylan |
+| Derek | Patton | Christian |
+| Tyler I  | | JD | Angie |
 | Gillian | | |  | Destiny |
-| |   |  |
 
 
 ### Assignment for Friday August 2nd
