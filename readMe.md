@@ -4,11 +4,11 @@
 ### Teams
 | Procurement | Management | Documentation | Community |
 | ----------- | ---------- | ------------- | --------- |
-| Devin | Dakota |
+| Devin | Dakota | | | | |
 | William | Oscar | William | Dylan |
 | Derek | Patton | Hunter M | Christian |
-| Tyler I  | JD | Angie |
-| Gillian | Destiny | Destiny |
+| Tyler I  | | | JD | Angie |
+| Gillian | | |  | Destiny |
 | |   |  |
 
 
