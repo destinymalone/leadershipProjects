@@ -4,11 +4,11 @@
 ### Teams
 | Procurement | Management | Community |
 | ----------- | ---------- | --------- |
-| Devin | Dakota |  | 
-| William | Oscar | Dylan |
-| Derek | Patton | Christian |
-| Tyler I | JD | Angie |
-| Gillian |  | Destiny |
+| Devin | Dakota | Dylan | 
+| William | Oscar | Christian |
+| Derek | Patton | Angie |
+| Tyler I | JD | Destiny |
+| Gillian |
 
 
 ### Assignment for Friday August 2nd
